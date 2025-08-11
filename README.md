@@ -2,7 +2,7 @@
 
 [Online Demo](https://todo-list-redux-ten-ashen.vercel.app/)
 
-- Developed by Reza Geshani             
+- Developed by Reza Geshani                  
 
 - Created - 2025-07-31
 
